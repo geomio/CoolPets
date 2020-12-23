@@ -1,0 +1,155 @@
+h1 
+{
+  font-size: x-large;
+  text-align: center;
+  padding: 10px;
+  background: 10px blue;
+  margin: 10px;
+  border-radius: 50%;
+}
+
+p
+{
+text-align: center;
+}
+
+.column 
+{
+  float: left;
+  width: 300px;
+  text-align: center;
+  padding: 2px;
+  margin: 2px;
+  border: auto cornflowerblue;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  background-color: cornflowerblue;
+  column-gap: 20px;
+  justify-content: center;
+}
+
+.colimg
+{
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  border: 5px, transparent;
+  background: 5px;
+  padding: 5px;
+  height: 400px;
+  display: block;
+  width: 200px;
+}
+
+body
+{
+  background-color: coral;
+}
+
+.pg1top
+{
+  padding: 5%;
+  margin: 5%;
+  background: 5% tan;
+  text-align: center;
+  border-radius: 5px;
+}
+
+h2
+{
+  text-align: center;
+  margin: auto;
+  padding: auto;
+  background: 10 px tomato;
+  font-size: 66px;
+}
+
+.homebarpg1
+{
+  float: left;
+  border-radius: 20px;
+  margin-left: 200px;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: auto;
+  padding-top: 20px;
+  background: 20px lightgreen;
+  list-style-position: inside;
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+  
+}
+
+.homebarpg2
+{
+  float: right;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: auto;
+  padding: 20px;
+  border-radius: 8px;
+  background: 20px rgb(27, 133, 27);
+  list-style-position: inside;
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+}
+.homepage
+{
+  
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: auto;
+  padding: 20px;
+  border-radius: 80px;
+  background: 20px rgb(27, 133, 27);
+  list-style-position: inside;
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+
+}
+.info
+{
+  background: 20px red;
+  float: left;
+  padding: auto;
+  margin: auto;
+}
+
+.Contact
+{
+  margin: auto;
+  padding: auto;
+  background: 20px blue;
+  float: right;
+}
+
+img
+{
+  border-radius: 18%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  display: block;
+  width: 800px;
+  height: 300px;
+  margin-top: auto;
+  margin-bottom: auto;
+  content: center;
+
+}
+
+.pow
+{
+  text-align: center;
+  font-size: xx-large;
+  color: cyan;
+  font-style: italic;
+}
+
+
+
