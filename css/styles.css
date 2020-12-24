@@ -17,6 +17,7 @@ text-align: center;
 {
   float: left;
   width: 300px;
+  height: 600px;
   text-align: center;
   padding: 2px;
   margin: 2px;
@@ -36,7 +37,7 @@ text-align: center;
   border: 5px, transparent;
   background: 5px;
   padding: 5px;
-  height: 400px;
+  height: auto;
   display: block;
   width: 200px;
 }
@@ -68,11 +69,11 @@ h2
 {
   float: left;
   border-radius: 20px;
-  margin-left: 200px;
+  margin-left: 20px;
   margin-right: auto;
-  margin-top: 200px;
+  margin-top: 20px;
   margin-bottom: auto;
-  padding-top: 20px;
+  padding: 10px;
   background: 20px lightgreen;
   list-style-position: inside;
   text-align: center;
